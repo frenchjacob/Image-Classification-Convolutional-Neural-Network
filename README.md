@@ -1,4 +1,4 @@
-# Image-Classification-Convilutional-Neural-Network
+# Image-Classification-Convolutional-Neural-Network
 Project for Victoria University of Wellington course Machine Learning Tools &amp; Techniques (COMP309)
 
 The objective of this project was to classify 300x300 images of cherries, strawberries, and tomatoes using a range of neural network techniques. The project followed these key steps:
