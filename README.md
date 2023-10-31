@@ -15,7 +15,7 @@ This project's approach demonstrates a comprehensive strategy for image classifi
 
 The project consists of two main components:
 
-1. "EDA & Tuning Directory": This section of the project is a Jupyter notebook that was executed in Google Colab to address computing constraints. It includes code that likely requires organization and cleaning up. The primary goal of this notebook is to perform Exploratory Data Analysis (EDA) and fine-tuning of the neural network model.
+1. "EDA & Tuning": This section of the project is a Jupyter notebook that was executed in Google Colab to address computing constraints. It includes code that likely requires organization and cleaning up. The primary goal of this notebook is to perform Exploratory Data Analysis (EDA) and fine-tuning of the neural network model.
 
 2. "Final Model": This section involves two Python files:
 
