@@ -11,7 +11,9 @@ The objective of this project was to classify 300x300 images of cherries, strawb
 
 4. In the final stage of the project, more advanced methods such as data augmentation and transfer learning were considered and investigated to further improve the classification accuracy.
 
-This project's approach demonstrates a comprehensive strategy for image classification, starting from basic techniques and gradually advancing to more sophisticated methods to achieve accurate results.
+This approach demonstrates a comprehensive strategy for image classification, starting from basic techniques and gradually advancing to more sophisticated methods to achieve accurate results.
+
+The attached report offers a thorough and detailed summary of the methods employed in the project, explaining the reasoning behind their selection. It also includes model comparisons to showcase their effectiveness and appropriateness for the task at hand.
 
 The project consists of two main components:
 
@@ -24,4 +26,6 @@ The project consists of two main components:
    b. "test.py": This script is designed to use the trained "model.pth" to classify images. Images for classification should be placed in the "testdata" directory.
 
 For access to the data, you can visit the provided Google Drive link: [Data Available](https://drive.google.com/drive/folders/1tHmxtfVdePLT4s5SOQwduDoxJlZ7MyVh?usp=drive_link). This link should contain the necessary datasets for your project.
+
+
 
